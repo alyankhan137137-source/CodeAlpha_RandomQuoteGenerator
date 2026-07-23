@@ -1,9 +1,6 @@
-# Ignore native platform build/wrapper code from language statistics
 windows/* linguist-vendored
 linux/* linguist-vendored
 android/* linguist-vendored
 ios/* linguist-vendored
 web/* linguist-vendored
-
-# Force .dart files to be counted as Dart
 *.dart linguist-detectable=true
