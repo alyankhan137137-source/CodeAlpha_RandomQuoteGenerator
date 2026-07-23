@@ -41,4 +41,40 @@ const List<Quote> quotes = [
     text: "Believe you can and you're halfway there.",
     author: "Theodore Roosevelt",
   ),
+  Quote(
+    text: "The future belongs to those who believe in the beauty of their dreams.",
+    author: "Eleanor Roosevelt",
+  ),
+  Quote(
+    text: "Do what you can, with what you have, where you are.",
+    author: "Theodore Roosevelt",
+  ),
+  Quote(
+    text: "Happiness is not something readymade. It comes from your own actions.",
+    author: "Dalai Lama",
+  ),
+  Quote(
+    text: "The only limit to our realization of tomorrow will be our doubts of today.",
+    author: "Franklin D. Roosevelt",
+  ),
+  Quote(
+    text: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    author: "Zig Ziglar",
+  ),
+  Quote(
+    text: "Act as if what you do makes a difference. It does.",
+    author: "William James",
+  ),
+  Quote(
+    text: "Quality is not an act, it is a habit.",
+    author: "Aristotle",
+  ),
+  Quote(
+    text: "Life is 10% what happens to us and 90% how we react to it.",
+    author: "Charles R. Swindoll",
+  ),
+  Quote(
+    text: "If you can dream it, you can do it.",
+    author: "Walt Disney",
+  ),
 ];
